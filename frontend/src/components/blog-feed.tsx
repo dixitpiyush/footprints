@@ -47,7 +47,7 @@ export default function BlogFeed() {
       <div className="-mx-4 flex flex-wrap">
         <div className="w-full p-4 md:w-2/3">
           <div className="-mb-1 cursor-text text-base tracking-wide text-slate-500 dark:text-dark-tertiary">
-            What's hot?
+            What's Trending?
           </div>
           <h1 className="mb-2 cursor-text text-xl font-semibold dark:text-dark-primary">
             {selectedCategory === 'featured'
